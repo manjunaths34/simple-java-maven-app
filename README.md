@@ -15,3 +15,4 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 an extra line from workspace1
+an extra line from workspace2
