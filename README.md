@@ -16,3 +16,6 @@ the "Deliver" stage of your Pipeline.
 
 an extra line from workspace1
 an extra line from workspace2
+
+lines added from develop branch1
+lines added from develop branch2
